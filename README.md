@@ -2,6 +2,10 @@
 
 This is my cs220 test.
 
+## Cool Feature
+
+This is my cool feature.
+
 ## A Level 2 heading
 
 Favorite icecream
